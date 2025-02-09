@@ -2,7 +2,7 @@
 
 
 ## Easy Ride
-  Easy Ride is an travelling flutter project where we Developing an mobile app which tells the total time that he/she may take to reach the destination like tourist place, hotels through public transport and tells in which time periods can they reach their destinations the fastest. This helps in planning ahead and tells the user which transport that they should use.The built apk is in the build folder.
+  Easy Ride is an travelling flutter project where we Developing an mobile app which tells the total time that he/she may take to reach the destination like tourist place, hotels through public transport and tells in which time periods can they reach their destinations the fastest. This helps in planning ahead and tells the user which transport that they should use.The built apk is in the apk folder.
 
 
 ## Features
